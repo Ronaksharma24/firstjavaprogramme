@@ -6,7 +6,10 @@ public class addition {
 
         int x=10;
         int y=20;
+        int result;
 
-        System.out.println((x+y));
+        result = x+y;
+        System.out.println("Addition result is :");
+        System.out.println(result);
     }
 }
